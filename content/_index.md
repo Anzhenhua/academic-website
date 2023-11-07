@@ -234,9 +234,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+#      subtitle:
+#      text: |-
+#        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: an.zhenhua.27u@st.kyoto-u.ac.jp
       #phone: +81 090-3972-3226 / +86 19829663226
@@ -253,9 +253,9 @@ sections:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '34.98263172042651'
-        longitude: '135.6771356241141'  
+#      coordinates:
+#        latitude: '34.98263172042651'
+#        longitude: '135.6771356241141'  
 #      contact_links:
 #        - icon: twitter
 #          icon_pack: fab
