@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhenhua An
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Kyoto University, Thermal Science and Engineering Laboratory
+    url: http://www.tse.me.kyoto-u.ac.jp/index_e.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
