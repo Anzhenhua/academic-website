@@ -128,7 +128,7 @@ sections:
 #    design:
 #      columns: '2'
   - block: collection
-    id: posts
+    id: news
     content:
       title: News
       subtitle: ''
@@ -201,6 +201,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
