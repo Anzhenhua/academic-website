@@ -241,13 +241,13 @@ sections:
       #phone: +81 090-3972-3226 / +86 19829663226
       #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: Nishikyo-ku
+        city: Kyoto
+        region: JP
+        postcode: '615-8540'
+        country: Japan
+        country_code: JP
+      directions: Kyoto daigaku-Katsura Katsura campus C Cluster Room b4N04
       office_hours: I do not have regular office hours. Please make an appointment via email.
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
