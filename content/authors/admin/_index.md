@@ -40,7 +40,7 @@ education:
       institution: Kyoto University, Japan
       year: 2022
     - course: MEng in Energy and Power Engineering
-      institution: Xi’an Jiaotong University, China
+      institution: State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
       year: 2019
     - course: BSc in Energy
       institution: Zhejiang University, China
@@ -101,7 +101,7 @@ social:
 #    display:
 #      header: true
   - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai #fas
     link: https://scholar.google.com/citations?hl=zh-CN&tzom=-540&user=JqOqB0oAAAAJ
 #  - icon: github
 #    icon_pack: fab
