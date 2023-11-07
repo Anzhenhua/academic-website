@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Numerical study on spherical flame propagation in dispersed liquid ammonia droplets"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Zhenhua An
+- Jiangkuan Xing
+- Abhishek Lakshman Pillai
+- Ryoichi Kurose
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2023-09-14T00:00:00Z"
+doi: "10.1016/j.fuel.2023.129660"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-09-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*FUEL*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Directly using liquid ammonia in combustion devices can simplify the fuel supply system and reduce equipment costs. However, the detailed ignition and propagation mechanisms of liquid ammonia flames have not been fully understood. This study aims to investigate the ignition and propagation of liquid ammonia flames numerically under various conditions. Spherically expanding liquid ammonia flames are studied using detailed chemistry. The effects of initial temperatures, droplet diameters, equivalence ratios, and heat fraction are investigated. The results indicate that the rapid flash boiling of liquid ammonia droplets leads to a strong local heat loss, hindering the ignition and propagation of the flame. Preheating can significantly increase the reaction rate, which compensates for the heat loss caused by phase change, allowing the flame kernel to ignite and propagate outwards. While droplet-flame interaction is present but not significant due to the rapid evaporation of liquid ammonia. The effect of droplet on the flame surface curvature is only distinguishable at conditions of large diameter. Equivalence ratio and ammonia heat fraction ratio change the amount of liquid ammonia.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
