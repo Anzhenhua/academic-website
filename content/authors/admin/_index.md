@@ -102,7 +102,8 @@ social:
 #      header: true
   - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai #fas
-    link: https://scholar.google.com/citations?hl=zh-CN&tzom=-540&user=JqOqB0oAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&tzom=-540&user=JqOqB0oAAAAJ 
+	
   - icon: researchgate
 	icon_pack: ai
 	link: https://www.researchgate.net/profile/Zhenhua-An-3
