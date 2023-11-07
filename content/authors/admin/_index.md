@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhenhua An is a Ph.D. candidate in the field of combustion science and technology at the Thermal Science and Engineering Laboratory. His research interests include ammonia combustion, large-scale numerical simulation, and combustion models. Currently, he is focusing on the research of liquid ammonia flame simulation using LES/DNS methods.
 {style="text-align: justify;"}
