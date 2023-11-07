@@ -94,14 +94,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:an.zhenhua.27u@st.kyoto-u.ac.jp' #'/#contact'
-	
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-
   - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&tzom=-540&user=JqOqB0oAAAAJ
