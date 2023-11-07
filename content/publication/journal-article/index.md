@@ -47,7 +47,7 @@ url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0016236123022743
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Liquid ammonia propagation flame' #'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
