@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:an.zhenhua.27u@st.kyoto-u.ac.jp' #'/#contact'
+    link: 'mailto:an.zhenhua.27u@st.kyoto-u.ac.jp'#'/#contact'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
