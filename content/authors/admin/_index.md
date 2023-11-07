@@ -106,9 +106,9 @@ social:
   - icon: researchgate 
     icon_pack: ai 
     link: https://www.researchgate.net/profile/Zhenhua-An-3
-  - icon: orcid
-   icon_pack: ai
-   link: https://orcid.org/my-orcid?orcid=0000-0002-9406-8764
+  - icon: orcid 
+    icon_pack: ai 
+    link: https://orcid.org/my-orcid?orcid=0000-0002-9406-8764
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
