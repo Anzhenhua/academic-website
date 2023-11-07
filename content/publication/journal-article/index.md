@@ -1,7 +1,7 @@
 ---
 title: "Numerical study on spherical flame propagation in dispersed liquid ammonia droplets"
 authors:
-- Zhenhua An
+- admin
 - Jiangkuan Xing
 - Abhishek Lakshman Pillai
 - Ryoichi Kurose
