@@ -21,7 +21,10 @@ role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kyoto University, Thermal Science and Engineering Laboratory
+  - name: 
+       - 'Thermal Science and Engineering Laboratory'
+       - 'Kyoto University'
+#  Kyoto University, Thermal Science and Engineering Laboratory
     url: http://www.tse.me.kyoto-u.ac.jp/index_e.php
 
 # Short bio (displayed in user profile at end of posts)
