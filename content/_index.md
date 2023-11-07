@@ -237,7 +237,7 @@ sections:
 #      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+#      # Contact (add or remove contact options as necessary)
       email: an.zhenhua.27u@st.kyoto-u.ac.jp
       #phone: +81 090-3972-3226 / +86 19829663226
       #appointment_url: 'https://calendly.com'
