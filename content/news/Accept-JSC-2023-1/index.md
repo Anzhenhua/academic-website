@@ -1,6 +1,12 @@
 ---
 title: The 61st Symposium (Japanese) on Combustion
-date: '2023-09-22'
+
+# Date published
+date: '2023-09-22T00:00:00Z'
+
+# Date updated
+lastmod: '2023-09-22T00:00:00Z'
+
 summary: Two papers are accepted by the 61st Symposium (Japanese) on Combustion
 ---
 
