@@ -1,14 +1,14 @@
 ---
-title: 'Carrier-phase direct numerical simulation of a laboratory-scale liquid ammonia jet flame'
+title: 'Combustion characteristic of swirl flames using online cracking of ammonia to replace methane in a model gas turbine'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Jiangkuan Xing
   - Meng Zhang
-  - Abhishek Lakshman Pillai
+  - Weijie Zhang
+  - Jiangkuan Xing
   - Ryoichi Kurose
 
 # Author notes (optional)
@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-09-22T00:00:00Z'
+date: '2022-09-16T00:00:00Z'
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-09-22T00:00:00Z'
+publishDate: '2022-09-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +28,10 @@ publishDate: '2023-09-22T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 61st Symposium (Japanese) on Combustion*
-publication_short: In *The 61st Symposium (Japanese) on Combustion*
+publication: In *The 60st Symposium (Japanese) on Combustion*
+publication_short: In *The 60st Symposium (Japanese) on Combustion*
 
-abstract: A laboratory-scale liquid ammonia jet flame is investigated using Carrier-Phase Direct Numerical Simulation (CP-DNS) with a detailed reaction mechanism (Combust. Flame 204(2019)162175), which includes 42 chemical species and 130 reactions. The validity of the CP-DNS is evaluated by comparing the simulation results with the experimental data. Subsequently, flame structure and combustion characteristics are explored in detail. The results show that strong heat loss caused by the flash boiling significantly reduces the local heat release. From upstream to downstream, the combustion reactions are affected by different degrees of phase change. Notably, NO formation is much more significant in the downstream due to the higher ammonia concentration and local temperature. 
+abstract: As a carbon-free fuel, ammonia has attracted significant attention. However, its low reactivity challenges its application in the realistic combustion system. It is a feasible strategy to enhance ammonia flame using online cracking since the cracked hydrogen could increase the stability, making it more similar to methane flame to realize the replacement. The present work investigates the partially cracked NH3/air flame in a model gas turbine. Experiment and the large eddy simulation coupled with flamelet generated manifold (FGM) model are used. Three NH3/air cracking ratio cases (cracking ratio, Cr = 0.2, 0.4, 0.6) are investigated. And the CH4 flame under a similar power value condition is also studied for comparison. The results indicate that when the ammonia cracking ratio reaches 40%, the flame structure and heat release characteristics are similar to pure methane flame, but the NO emission increases in cracking cases. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
