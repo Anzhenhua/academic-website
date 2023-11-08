@@ -1,5 +1,5 @@
 ---
-title: One paper is accepted by **FUEL**
+title: One paper is accepted by FUEL
 
 # Date published
 date: '2023-08-26T00:00:00Z'
