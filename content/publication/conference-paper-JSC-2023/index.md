@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-09-22T00:00:00Z'
-doi: ''
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-09-22T00:00:00Z'
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+#url_pdf: ''
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_poster: ''
