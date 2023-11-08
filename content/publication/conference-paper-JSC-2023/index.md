@@ -28,13 +28,13 @@ publishDate: '2023-09-22T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *The 61st Symposium (Japanese) on Combustion*
+publication_short: In *The 61st Symposium (Japanese) on Combustion*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A laboratory-scale liquid ammonia jet flame is investigated using Carrier-Phase Direct Numerical Simulation (CP-DNS) with a detailed reaction mechanism (Combust. Flame 204(2019)162175), which includes 42 chemical species and 130 reactions. The validity of the CP-DNS is evaluated by comparing the simulation results with the experimental data. Subsequently, flame structure and combustion characteristics are explored in detail. The results show that strong heat loss caused by the flash boiling significantly reduces the local heat release. From upstream to downstream, the combustion reactions are affected by different degrees of phase change. Notably, NO formation is much more significant in the downstream due to the higher ammonia concentration and local temperature. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -58,7 +58,7 @@ url_pdf: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Instantaneous distributions of liquid ammonia jet flame'
   focal_point: ''
   preview_only: false
 
