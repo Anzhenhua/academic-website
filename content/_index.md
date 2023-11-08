@@ -208,6 +208,7 @@ sections:
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
 #        {{% /callout %}}
+      count: 7
       filters:
         folders:
           - publication
