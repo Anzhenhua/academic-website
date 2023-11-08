@@ -155,12 +155,12 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: researches
     content:
-      title: Projects
+      title: Researches
       filters:
         folders:
-          - project
+          - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
