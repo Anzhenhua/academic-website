@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zhenhua An (安振华) # Website name
-baseURL: 'https://scholar.google.com/citations?hl=zh-CN&user=JqOqB0oAAAAJ' # Website URL
+baseURL: 'https://anzhenhua.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
