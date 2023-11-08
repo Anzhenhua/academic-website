@@ -2,7 +2,7 @@
 title: Gaseous Ammonia Flame
 summary: Emission and stability of gaseous ammonia combustion.
 tags:
-  - Gaseous Ammonia
+  - GNH3
 date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

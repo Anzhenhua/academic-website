@@ -2,7 +2,7 @@
 title: Liquid Ammonia Flame
 summary: Liquid Ammonia Flame #`external_link`.
 tags:
-  - Demo
+  - LNH3
 date: "20123-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
