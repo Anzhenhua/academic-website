@@ -58,7 +58,7 @@ url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Instantaneous distributions of liquid ammonia jet flame'#'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Instantaneous distributions of liquid ammonia jet flame' #'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
