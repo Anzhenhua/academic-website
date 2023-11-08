@@ -134,7 +134,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -204,7 +204,6 @@ sections:
     id: publications
     content:
       title: Recent Publications
-	  count: 0
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
