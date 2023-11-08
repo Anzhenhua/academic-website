@@ -1,8 +1,8 @@
 ---
 title: "Emission analysis of the CH4/NH3/air co-firing fuels in a model combustor"
 authors:
-- admin
 - Meng Zhang
+- admin
 - Xutao Wei
 - Jinhua Wang
 - Zuohua Huang
