@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-11-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-11-15T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +28,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *The 61st Symposium (Japanese) on Combustion*
+publication_short: In *The 61st Symposium (Japanese) on Combustion*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A laboratory-scale liquid ammonia jet flame is investigated using Carrier-Phase Direct Numerical Simulation (CP-DNS) with a detailed reaction mechanism (Combust. Flame 204(2019)162175), which includes 42 chemical species and 130 reactions. The validity of the CP-DNS is evaluated by comparing the simulation results with the experimental data. Subsequently, flame structure and combustion characteristics are explored in detail. The results show that strong heat loss caused by the flash boiling significantly reduces the local heat release. From upstream to downstream, the combustion reactions are affected by different degrees of phase change. Notably, NO formation is much more significant in the downstream due to the higher ammonia concentration and local temperature
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
