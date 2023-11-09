@@ -40,7 +40,7 @@ education:
       institution: Kyoto University, Japan
       year: 2022
     - course: MEng in Energy and Power Engineering
-      institution: State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
+      institution: [Clean Combustion Center](https://gr.xjtu.edu.cn/en/web/zhhuang), State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
       year: 2019
     - course: BSc in Energy
       institution: Zhejiang University, China
