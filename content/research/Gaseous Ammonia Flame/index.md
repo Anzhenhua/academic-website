@@ -6,7 +6,7 @@ tags:
 date: '2022-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
 image:
   caption: Ammonia swirl flame

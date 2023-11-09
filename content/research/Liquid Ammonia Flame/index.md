@@ -12,3 +12,4 @@ image:
   caption: Liquid ammonia jet flame
   focal_point: Smart
 ---
+Ammonia swirl flame.
