@@ -37,14 +37,14 @@ interests:
 education:
   courses:
     - course: PhD in Mechanical Engineering and Science
-      institution: Thermal Science and Engineering Laboratory, Kyoto University, Japan
-      year: 2022~
+      institution: Thermal Science and Engineering Laboratory, Kyoto University, [Japan](http://www.tse.me.kyoto-u.ac.jp/index_e.php)
+      year: 2022 -
     - course: MEng in Energy and Power Engineering
       institution: Clean Combustion Center, State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
-      year: 2019~2022
+      year: 2019 - 2022
     - course: BSc in Energy
       institution: Zhejiang University, China
-      year: 2015~2019
+      year: 2015 - 2019
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
