@@ -40,7 +40,7 @@ education:
       institution: Kyoto University, Japan
       year: 2022
     - course: MEng in Energy and Power Engineering
-      institution: [Clean Combustion Center](https://gr.xjtu.edu.cn/en/web/zhhuang), State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
+      institution: Clean Combustion Center, State Key Laboratory of Multiphase Flow in Power Engineering, Xi’an Jiaotong University, China
       year: 2019
     - course: BSc in Energy
       institution: Zhejiang University, China
@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Zhenhua An is a Ph.D. candidate in the field of combustion science and technology at the Thermal Science and Engineering Laboratory. His research interests include ammonia combustion, large-scale numerical simulation, and combustion models. Currently, he is focusing on the research of liquid ammonia flame simulation using LES/DNS methods.
+Zhenhua An is a Ph.D. [candidate](https://gr.xjtu.edu.cn/en/web/zhhuang) in the field of combustion science and technology at the Thermal Science and Engineering Laboratory. His research interests include ammonia combustion, large-scale numerical simulation, and combustion models. Currently, he is focusing on the research of liquid ammonia flame simulation using LES/DNS methods.
 {style="text-align: justify;"}
