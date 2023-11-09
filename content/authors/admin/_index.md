@@ -124,7 +124,9 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+# with Prof. [Jinhua Wang](https://gr.xjtu.edu.cn/en/web/jinhuawang/home) and Prof. [Meng Zhang](https://gr.xjtu.edu.cn/en/web/mengzhang/home)
 ---
 
-Zhenhua An is a Ph.D. candidate in the field of combustion science and technology at the [Thermal Science and Engineering Laboratory](http://www.tse.me.kyoto-u.ac.jp/index_e.php). His research interests include ammonia combustion, large-scale numerical simulation, and combustion models. Previously, he worked in the [Clean and Low Carbon Combustion Center](https://gr.xjtu.edu.cn/en/web/zhhuang) with Prof. [Jinhua Wang](https://gr.xjtu.edu.cn/en/web/jinhuawang/home) and Prof. [Meng Zhang](https://gr.xjtu.edu.cn/en/web/mengzhang/home). Currently, he is focusing on the research of liquid ammonia flame simulation using LES/DNS methods.
+Zhenhua An is a Ph.D. candidate in the field of combustion science and technology at the [Thermal Science and Engineering Laboratory](http://www.tse.me.kyoto-u.ac.jp/index_e.php). His research interests include ammonia combustion, large-scale numerical simulation, and combustion models. Previously, he worked in the [Clean and Low Carbon Combustion Center](https://gr.xjtu.edu.cn/en/web/zhhuang). Currently, he is focusing on the research of liquid ammonia flame simulation using LES/DNS methods.
 {style="text-align: justify;"}
+
